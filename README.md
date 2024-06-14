@@ -40,4 +40,4 @@ The consumer reads flight numbers from the RabbitMQ queue and processes them. It
 -consumer_bag.py: An alternative or backup consumer script.
 
 ## Sreenshot 
-![screenshot](Screenshot%2024-06-13 172156.png)
+![screenshot](Screenshot%202024-06-13%20172156.png)
