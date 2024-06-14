@@ -1,5 +1,4 @@
 # Streaming_07_Finial_Project
-# Streaming_07_Finial_Project
 
 ## HANNA ANENIA
 ## 05/09/2024
@@ -40,4 +39,4 @@ The consumer reads flight numbers from the RabbitMQ queue and processes them. It
 -consumer_bag.py: An alternative or backup consumer script.
 
 ## Sreenshot 
-![screenshot](Screenshot%202024-06-13%20172156.png)
+![screenshot][def![alt text](image.png)]

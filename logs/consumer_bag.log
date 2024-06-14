@@ -858,3 +858,99 @@
 2024-06-13 17:40:23,724.consumer_bag.INFO  [alert] BG0349 => BAGGAGE FOR: Kenneth Torres is Delivered!!!
 2024-06-13 17:40:25,730.consumer_bag.INFO Received baggage data: ('Brooke Williams', 'BG6645', 'Checked-in')
 2024-06-13 17:40:27,732.consumer_bag.INFO Received baggage data: ('Monica Brown', 'BG7115', 'Checked-in')
+2024-06-13 17:40:29,739.consumer_bag.INFO Received baggage data: ('Mary Soto', 'BG4203', 'Unloaded')
+2024-06-13 17:40:31,742.consumer_bag.INFO Received baggage data: ('David Best', 'BG3112', 'Unloaded')
+2024-06-13 17:40:33,745.consumer_bag.INFO Received baggage data: ('Chris White', 'BG4128', 'Delivered')
+2024-06-13 17:40:33,746.consumer_bag.INFO  [alert] BG4128 => BAGGAGE FOR: Chris White is Delivered!!!
+2024-06-13 17:40:35,748.consumer_bag.INFO Received baggage data: ('Lisa Weber', 'BG0726', 'Delivered')
+2024-06-13 17:40:35,750.consumer_bag.INFO  [alert] BG0726 => BAGGAGE FOR: Lisa Weber is Delivered!!!
+2024-06-13 17:40:37,755.consumer_bag.INFO Received baggage data: ('Ronald Cruz Jr.', 'BG0337', 'Delivered')
+2024-06-13 17:40:37,763.consumer_bag.INFO  [alert] BG0337 => BAGGAGE FOR: Ronald Cruz Jr. is Delivered!!!
+2024-06-13 17:40:39,759.consumer_bag.INFO Received baggage data: ('Connie Martin', 'BG3042', 'Checked-in')
+2024-06-13 17:40:41,763.consumer_bag.INFO Received baggage data: ('Christopher Robinson', 'BG7679', 'Delivered')
+2024-06-13 17:40:41,764.consumer_bag.INFO  [alert] BG7679 => BAGGAGE FOR: Christopher Robinson is Delivered!!!
+2024-06-13 17:40:43,767.consumer_bag.INFO Received baggage data: ('Courtney Rice', 'BG3345', 'Loaded')
+2024-06-13 17:40:45,774.consumer_bag.INFO Received baggage data: ('Steven Davis', 'BG9123', 'Delivered')
+2024-06-13 17:40:45,775.consumer_bag.INFO  [alert] BG9123 => BAGGAGE FOR: Steven Davis is Delivered!!!
+2024-06-13 17:40:47,778.consumer_bag.INFO Received baggage data: ('Jose Mcmahon', 'BG0309', 'Checked-in')
+2024-06-13 17:40:49,792.consumer_bag.INFO Received baggage data: ('Billy Ryan', 'BG2863', 'Unloaded')
+2024-06-13 17:40:51,799.consumer_bag.INFO Received baggage data: ('Jeremiah Hernandez', 'BG3260', 'Checked-in')
+2024-06-13 17:40:53,805.consumer_bag.INFO Received baggage data: ('Mrs. Mindy Vega', 'BG0842', 'Delivered')
+2024-06-13 17:40:53,806.consumer_bag.INFO  [alert] BG0842 => BAGGAGE FOR: Mrs. Mindy Vega is Delivered!!!
+2024-06-13 17:40:55,808.consumer_bag.INFO Received baggage data: ('Heather Crosby', 'BG5014', 'Loaded')
+2024-06-13 17:40:57,814.consumer_bag.INFO Received baggage data: ('Alexis Hansen', 'BG7699', 'Loaded')
+2024-06-13 17:40:59,830.consumer_bag.INFO Received baggage data: ('Brittany Ortiz', 'BG0676', 'Loaded')
+2024-06-13 17:41:01,826.consumer_bag.INFO Received baggage data: ('Terri Boyle', 'BG1811', 'Delivered')
+2024-06-13 17:41:01,827.consumer_bag.INFO  [alert] BG1811 => BAGGAGE FOR: Terri Boyle is Delivered!!!
+2024-06-13 17:41:03,827.consumer_bag.INFO Received baggage data: ('Ronald Rodriguez', 'BG4099', 'Unloaded')
+2024-06-13 17:41:05,830.consumer_bag.INFO Received baggage data: ('Melanie Santiago', 'BG2478', 'Delivered')
+2024-06-13 17:41:05,831.consumer_bag.INFO  [alert] BG2478 => BAGGAGE FOR: Melanie Santiago is Delivered!!!
+2024-06-13 17:41:07,835.consumer_bag.INFO Received baggage data: ('Kenneth Robinson', 'BG0115', 'Checked-in')
+2024-06-13 17:41:09,838.consumer_bag.INFO Received baggage data: ('Madison Daniels', 'BG0949', 'Delivered')
+2024-06-13 17:41:09,839.consumer_bag.INFO  [alert] BG0949 => BAGGAGE FOR: Madison Daniels is Delivered!!!
+2024-06-13 17:41:11,846.consumer_bag.INFO Received baggage data: ('Gary Whitney', 'BG4111', 'Loaded')
+2024-06-13 17:41:13,849.consumer_bag.INFO Received baggage data: ('Jacob Frederick', 'BG2926', 'Loaded')
+2024-06-13 17:41:15,854.consumer_bag.INFO Received baggage data: ('Richard Hernandez', 'BG1421', 'Loaded')
+2024-06-13 17:41:17,856.consumer_bag.INFO Received baggage data: ('Tracy Nelson', 'BG7868', 'Checked-in')
+2024-06-13 17:41:19,859.consumer_bag.INFO Received baggage data: ('Jessica Middleton', 'BG8735', 'Checked-in')
+2024-06-13 17:41:21,861.consumer_bag.INFO Received baggage data: ('Brandon Fletcher', 'BG9044', 'Delivered')
+2024-06-13 17:41:21,862.consumer_bag.INFO  [alert] BG9044 => BAGGAGE FOR: Brandon Fletcher is Delivered!!!
+2024-06-13 17:41:23,869.consumer_bag.INFO Received baggage data: ('Tyrone Harris', 'BG0527', 'Delivered')
+2024-06-13 17:41:23,870.consumer_bag.INFO  [alert] BG0527 => BAGGAGE FOR: Tyrone Harris is Delivered!!!
+2024-06-13 17:41:25,878.consumer_bag.INFO Received baggage data: ('Stephanie Hill', 'BG8256', 'Checked-in')
+2024-06-13 17:41:27,880.consumer_bag.INFO Received baggage data: ('Cindy Phillips', 'BG8432', 'Checked-in')
+2024-06-13 17:41:29,884.consumer_bag.INFO Received baggage data: ('Suzanne Shaffer', 'BG3106', 'Checked-in')
+2024-06-13 17:41:31,887.consumer_bag.INFO Received baggage data: ('Timothy Santos', 'BG0817', 'Checked-in')
+2024-06-13 17:41:33,920.consumer_bag.INFO Received baggage data: ('Larry Cruz', 'BG2133', 'Checked-in')
+2024-06-13 17:41:35,926.consumer_bag.INFO Received baggage data: ('Riley Morales DDS', 'BG7215', 'Unloaded')
+2024-06-13 17:41:37,941.consumer_bag.INFO Received baggage data: ('Julie Dyer', 'BG2160', 'Unloaded')
+2024-06-13 17:41:39,953.consumer_bag.INFO Received baggage data: ('Leslie Cervantes', 'BG2877', 'Delivered')
+2024-06-13 17:41:39,954.consumer_bag.INFO  [alert] BG2877 => BAGGAGE FOR: Leslie Cervantes is Delivered!!!
+2024-06-13 17:41:41,957.consumer_bag.INFO Received baggage data: ('Shannon Hopkins', 'BG9717', 'Unloaded')
+2024-06-13 17:41:43,959.consumer_bag.INFO Received baggage data: ('Lisa Arnold', 'BG9390', 'Checked-in')
+2024-06-13 17:41:45,974.consumer_bag.INFO Received baggage data: ('Mrs. Kimberly Blair MD', 'BG1659', 'Loaded')
+2024-06-13 17:41:47,977.consumer_bag.INFO Received baggage data: ('Eric Stafford', 'BG8052', 'Loaded')
+2024-06-13 17:41:49,987.consumer_bag.INFO Received baggage data: ('Dorothy Oliver', 'BG8342', 'Unloaded')
+2024-06-13 17:41:51,994.consumer_bag.INFO Received baggage data: ('Jessica Lewis', 'BG0611', 'Delivered')
+2024-06-13 17:41:51,995.consumer_bag.INFO  [alert] BG0611 => BAGGAGE FOR: Jessica Lewis is Delivered!!!
+2024-06-13 17:41:53,999.consumer_bag.INFO Received baggage data: ('Sherry Chavez', 'BG4906', 'Unloaded')
+2024-06-13 17:41:56,005.consumer_bag.INFO Received baggage data: ('Samantha Washington', 'BG0305', 'Unloaded')
+2024-06-13 17:41:58,021.consumer_bag.INFO Received baggage data: ('Sheila Rivas', 'BG3017', 'Loaded')
+2024-06-13 17:42:00,045.consumer_bag.INFO Received baggage data: ('Kendra Owen', 'BG2013', 'Delivered')
+2024-06-13 17:42:00,054.consumer_bag.INFO  [alert] BG2013 => BAGGAGE FOR: Kendra Owen is Delivered!!!
+2024-06-13 17:42:02,058.consumer_bag.INFO Received baggage data: ('Kim Pierce', 'BG7656', 'Loaded')
+2024-06-13 17:42:04,062.consumer_bag.INFO Received baggage data: ('Tamara Foster DDS', 'BG2873', 'Loaded')
+2024-06-13 17:42:06,067.consumer_bag.INFO Received baggage data: ('Andrea Edwards', 'BG7054', 'Unloaded')
+2024-06-13 17:42:08,071.consumer_bag.INFO Received baggage data: ('Jason Williams', 'BG7422', 'Loaded')
+2024-06-13 17:42:10,073.consumer_bag.INFO Received baggage data: ('Adam Woods', 'BG3700', 'Checked-in')
+2024-06-13 17:42:12,077.consumer_bag.INFO Received baggage data: ('Ebony Hunt', 'BG5442', 'Loaded')
+2024-06-13 17:42:14,086.consumer_bag.INFO Received baggage data: ('Emily Wilcox', 'BG1663', 'Checked-in')
+2024-06-13 17:42:16,088.consumer_bag.INFO Received baggage data: ('Eric Bender', 'BG7042', 'Delivered')
+2024-06-13 17:42:16,089.consumer_bag.INFO  [alert] BG7042 => BAGGAGE FOR: Eric Bender is Delivered!!!
+2024-06-13 17:42:18,092.consumer_bag.INFO Received baggage data: ('Wesley Gutierrez DDS', 'BG7456', 'Unloaded')
+2024-06-13 17:42:20,095.consumer_bag.INFO Received baggage data: ('Christine Myers', 'BG5784', 'Delivered')
+2024-06-13 17:42:20,096.consumer_bag.INFO  [alert] BG5784 => BAGGAGE FOR: Christine Myers is Delivered!!!
+2024-06-13 17:42:22,103.consumer_bag.INFO Received baggage data: ('Mike Esparza', 'BG1601', 'Loaded')
+2024-06-13 17:42:24,115.consumer_bag.INFO Received baggage data: ('Nancy Dillon', 'BG5202', 'Delivered')
+2024-06-13 17:42:24,117.consumer_bag.INFO  [alert] BG5202 => BAGGAGE FOR: Nancy Dillon is Delivered!!!
+2024-06-13 17:42:26,123.consumer_bag.INFO Received baggage data: ('Jesus Buckley', 'BG1333', 'Delivered')
+2024-06-13 17:42:26,124.consumer_bag.INFO  [alert] BG1333 => BAGGAGE FOR: Jesus Buckley is Delivered!!!
+2024-06-13 17:42:28,127.consumer_bag.INFO Received baggage data: ('Sean Jones', 'BG1167', 'Checked-in')
+2024-06-13 17:42:30,132.consumer_bag.INFO Received baggage data: ('Susan Leblanc', 'BG3016', 'Delivered')
+2024-06-13 17:42:30,133.consumer_bag.INFO  [alert] BG3016 => BAGGAGE FOR: Susan Leblanc is Delivered!!!
+2024-06-13 17:42:32,139.consumer_bag.INFO Received baggage data: ('Thomas Smith', 'BG9079', 'Loaded')
+2024-06-13 17:42:34,143.consumer_bag.INFO Received baggage data: ('Jamie Anderson', 'BG1150', 'Unloaded')
+2024-06-13 17:42:36,150.consumer_bag.INFO Received baggage data: ('Megan Garcia', 'BG6799', 'Loaded')
+2024-06-13 17:42:38,163.consumer_bag.INFO Received baggage data: ('Elizabeth Allen', 'BG2973', 'Unloaded')
+2024-06-13 17:42:40,177.consumer_bag.INFO Received baggage data: ('Calvin Sweeney', 'BG1129', 'Loaded')
+2024-06-13 17:42:42,183.consumer_bag.INFO Received baggage data: ('Lauren Williams', 'BG7785', 'Delivered')
+2024-06-13 17:42:42,185.consumer_bag.INFO  [alert] BG7785 => BAGGAGE FOR: Lauren Williams is Delivered!!!
+2024-06-13 17:42:44,187.consumer_bag.INFO Received baggage data: ('Nicole Shields', 'BG8433', 'Checked-in')
+2024-06-13 17:42:46,193.consumer_bag.INFO Received baggage data: ('Kaitlin Martinez', 'BG1947', 'Unloaded')
+2024-06-13 17:42:48,197.consumer_bag.INFO Received baggage data: ('Mark Brown', 'BG2944', 'Checked-in')
+2024-06-13 17:42:50,216.consumer_bag.INFO Received baggage data: ('Richard Roberts', 'BG1549', 'Loaded')
+2024-06-13 17:42:52,224.consumer_bag.INFO Received baggage data: ('Erika Dennis', 'BG5008', 'Delivered')
+2024-06-13 17:42:52,225.consumer_bag.INFO  [alert] BG5008 => BAGGAGE FOR: Erika Dennis is Delivered!!!
+2024-06-13 17:42:54,234.consumer_bag.INFO Received baggage data: ('Robert Rodriguez', 'BG3617', 'Unloaded')
+2024-06-13 17:42:56,247.consumer_bag.INFO Received baggage data: ('Christian Williams', 'BG4373', 'Unloaded')
+2024-06-13 17:42:58,253.consumer_bag.INFO Received baggage data: ('Kelsey Frank', 'BG8406', 'Checked-in')

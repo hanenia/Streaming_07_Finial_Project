@@ -912,3 +912,241 @@
 2024-06-13 17:40:35,747.consumer.INFO Received flight data: ('FL6588', 'IGQ', 'TPI', 'On Time')
 2024-06-13 17:40:37,753.consumer.INFO Received flight data: ('FL6528', 'RXN', 'NAJ', 'Delayed')
 2024-06-13 17:40:37,754.consumer.INFO  [alert] FL6528 => FROM: RXN - TO: NAJ => FLIGHT Delayed!!!
+2024-06-13 17:40:39,757.consumer.INFO Received flight data: ('FL9833', 'OOV', 'SGD', 'On Time')
+2024-06-13 17:40:41,762.consumer.INFO Received flight data: ('FL9035', 'VLX', 'LOI', 'On Time')
+2024-06-13 17:40:43,766.consumer.INFO Received flight data: ('FL7594', 'HXZ', 'ILV', 'On Time')
+2024-06-13 17:40:45,771.consumer.INFO Received flight data: ('FL3708', 'PEY', 'MHI', 'On Time')
+2024-06-13 17:40:47,775.consumer.INFO Received flight data: ('FL1331', 'LDQ', 'OVJ', 'On Time')
+2024-06-13 17:40:49,790.consumer.INFO Received flight data: ('FL9888', 'QYR', 'CUH', 'On Time')
+2024-06-13 17:40:51,798.consumer.INFO Received flight data: ('FL9928', 'DJL', 'GFO', 'On Time')
+2024-06-13 17:40:53,804.consumer.INFO Received flight data: ('FL2919', 'PSH', 'ZJU', 'On Time')
+2024-06-13 17:40:55,807.consumer.INFO Received flight data: ('FL1447', 'QEW', 'TJM', 'On Time')
+2024-06-13 17:40:57,813.consumer.INFO Received flight data: ('FL8867', 'MOB', 'QPB', 'Cancelled')
+2024-06-13 17:40:57,814.consumer.INFO  [alert] FL8867 => FROM: MOB - TO: QPB => FLIGHT Cancelled!!!
+2024-06-13 17:40:59,830.consumer.INFO Received flight data: ('FL9489', 'CHU', 'SQG', 'Cancelled')
+2024-06-13 17:40:59,837.consumer.INFO  [alert] FL9489 => FROM: CHU - TO: SQG => FLIGHT Cancelled!!!
+2024-06-13 17:41:01,826.consumer.INFO Received flight data: ('FL1913', 'VGR', 'SDK', 'On Time')
+2024-06-13 17:41:03,827.consumer.INFO Received flight data: ('FL8392', 'MIS', 'ZOO', 'On Time')
+2024-06-13 17:41:05,830.consumer.INFO Received flight data: ('FL6536', 'THW', 'JSM', 'Cancelled')
+2024-06-13 17:41:05,830.consumer.INFO  [alert] FL6536 => FROM: THW - TO: JSM => FLIGHT Cancelled!!!
+2024-06-13 17:41:07,832.consumer.INFO Received flight data: ('FL1499', 'HXI', 'QTB', 'Delayed')
+2024-06-13 17:41:07,833.consumer.INFO  [alert] FL1499 => FROM: HXI - TO: QTB => FLIGHT Delayed!!!
+2024-06-13 17:41:09,836.consumer.INFO Received flight data: ('FL6019', 'HIA', 'WKN', 'Cancelled')
+2024-06-13 17:41:09,838.consumer.INFO  [alert] FL6019 => FROM: HIA - TO: WKN => FLIGHT Cancelled!!!
+2024-06-13 17:41:11,842.consumer.INFO Received flight data: ('FL4519', 'XHA', 'VIK', 'On Time')
+2024-06-13 17:41:13,848.consumer.INFO Received flight data: ('FL4130', 'ZYW', 'KQC', 'On Time')
+2024-06-13 17:41:15,851.consumer.INFO Received flight data: ('FL9462', 'WGT', 'IOX', 'Delayed')
+2024-06-13 17:41:15,853.consumer.INFO  [alert] FL9462 => FROM: WGT - TO: IOX => FLIGHT Delayed!!!
+2024-06-13 17:41:17,856.consumer.INFO Received flight data: ('FL6339', 'WQP', 'OAS', 'On Time')
+2024-06-13 17:41:19,858.consumer.INFO Received flight data: ('FL6886', 'VVV', 'VOL', 'On Time')
+2024-06-13 17:41:21,861.consumer.INFO Received flight data: ('FL7611', 'TPW', 'CJQ', 'On Time')
+2024-06-13 17:41:23,863.consumer.INFO Received flight data: ('FL4401', 'ZXJ', 'TIF', 'Cancelled')
+2024-06-13 17:41:23,864.consumer.INFO  [alert] FL4401 => FROM: ZXJ - TO: TIF => FLIGHT Cancelled!!!
+2024-06-13 17:41:25,876.consumer.INFO Received flight data: ('FL8855', 'AAJ', 'NLS', 'On Time')
+2024-06-13 17:41:27,879.consumer.INFO Received flight data: ('FL3074', 'UMO', 'VFI', 'Cancelled')
+2024-06-13 17:41:27,881.consumer.INFO  [alert] FL3074 => FROM: UMO - TO: VFI => FLIGHT Cancelled!!!
+2024-06-13 17:41:29,882.consumer.INFO Received flight data: ('FL8238', 'XCG', 'VCZ', 'On Time')
+2024-06-13 17:41:31,886.consumer.INFO Received flight data: ('FL7520', 'TRS', 'ZQE', 'On Time')
+2024-06-13 17:41:33,891.consumer.INFO Received flight data: ('FL8044', 'NVX', 'XLK', 'On Time')
+2024-06-13 17:41:35,925.consumer.INFO Received flight data: ('FL6990', 'UBM', 'FLI', 'On Time')
+2024-06-13 17:41:37,936.consumer.INFO Received flight data: ('FL3781', 'YFA', 'UPO', 'On Time')
+2024-06-13 17:41:39,952.consumer.INFO Received flight data: ('FL6792', 'ZCD', 'VGV', 'On Time')
+2024-06-13 17:41:41,955.consumer.INFO Received flight data: ('FL1258', 'WOI', 'ZHN', 'Delayed')
+2024-06-13 17:41:41,955.consumer.INFO  [alert] FL1258 => FROM: WOI - TO: ZHN => FLIGHT Delayed!!!
+2024-06-13 17:41:43,958.consumer.INFO Received flight data: ('FL2367', 'RLF', 'WTR', 'On Time')
+2024-06-13 17:41:45,962.consumer.INFO Received flight data: ('FL1006', 'QOC', 'OYV', 'Cancelled')
+2024-06-13 17:41:45,963.consumer.INFO  [alert] FL1006 => FROM: QOC - TO: OYV => FLIGHT Cancelled!!!
+2024-06-13 17:41:47,977.consumer.INFO Received flight data: ('FL8692', 'EGF', 'LDV', 'On Time')
+2024-06-13 17:41:49,983.consumer.INFO Received flight data: ('FL8742', 'UYP', 'TJF', 'Cancelled')
+2024-06-13 17:41:49,987.consumer.INFO  [alert] FL8742 => FROM: UYP - TO: TJF => FLIGHT Cancelled!!!
+2024-06-13 17:41:51,991.consumer.INFO Received flight data: ('FL6001', 'XIU', 'SSB', 'On Time')
+2024-06-13 17:41:53,996.consumer.INFO Received flight data: ('FL0880', 'NEY', 'ZUP', 'On Time')
+2024-06-13 17:41:56,002.consumer.INFO Received flight data: ('FL9054', 'VFQ', 'AXT', 'Delayed')
+2024-06-13 17:41:56,003.consumer.INFO  [alert] FL9054 => FROM: VFQ - TO: AXT => FLIGHT Delayed!!!
+2024-06-13 17:41:58,010.consumer.INFO Received flight data: ('FL4186', 'DKN', 'QHN', 'Cancelled')
+2024-06-13 17:41:58,012.consumer.INFO  [alert] FL4186 => FROM: DKN - TO: QHN => FLIGHT Cancelled!!!
+2024-06-13 17:42:00,039.consumer.INFO Received flight data: ('FL7956', 'XJD', 'SPA', 'Cancelled')
+2024-06-13 17:42:00,041.consumer.INFO  [alert] FL7956 => FROM: XJD - TO: SPA => FLIGHT Cancelled!!!
+2024-06-13 17:42:02,057.consumer.INFO Received flight data: ('FL9510', 'YYO', 'TMP', 'Cancelled')
+2024-06-13 17:42:02,057.consumer.INFO  [alert] FL9510 => FROM: YYO - TO: TMP => FLIGHT Cancelled!!!
+2024-06-13 17:42:04,060.consumer.INFO Received flight data: ('FL7727', 'OID', 'CGW', 'On Time')
+2024-06-13 17:42:06,064.consumer.INFO Received flight data: ('FL0058', 'TAX', 'LNI', 'On Time')
+2024-06-13 17:42:08,071.consumer.INFO Received flight data: ('FL4154', 'LMB', 'UIT', 'On Time')
+2024-06-13 17:42:10,073.consumer.INFO Received flight data: ('FL2677', 'SVY', 'NKT', 'On Time')
+2024-06-13 17:42:12,077.consumer.INFO Received flight data: ('FL1776', 'GDB', 'JRJ', 'On Time')
+2024-06-13 17:42:14,085.consumer.INFO Received flight data: ('FL2250', 'MNG', 'GEA', 'Delayed')
+2024-06-13 17:42:14,086.consumer.INFO  [alert] FL2250 => FROM: MNG - TO: GEA => FLIGHT Delayed!!!
+2024-06-13 17:42:16,087.consumer.INFO Received flight data: ('FL0747', 'PLH', 'BJV', 'On Time')
+2024-06-13 17:42:18,090.consumer.INFO Received flight data: ('FL0333', 'SAQ', 'NYP', 'On Time')
+2024-06-13 17:42:20,094.consumer.INFO Received flight data: ('FL5514', 'GGK', 'LQU', 'Cancelled')
+2024-06-13 17:42:20,095.consumer.INFO  [alert] FL5514 => FROM: GGK - TO: LQU => FLIGHT Cancelled!!!
+2024-06-13 17:42:22,099.consumer.INFO Received flight data: ('FL4081', 'POQ', 'JXH', 'Cancelled')
+2024-06-13 17:42:22,100.consumer.INFO  [alert] FL4081 => FROM: POQ - TO: JXH => FLIGHT Cancelled!!!
+2024-06-13 17:42:24,106.consumer.INFO Received flight data: ('FL4816', 'YKZ', 'BJT', 'On Time')
+2024-06-13 17:42:26,122.consumer.INFO Received flight data: ('FL8339', 'KRG', 'WIR', 'On Time')
+2024-06-13 17:42:28,126.consumer.INFO Received flight data: ('FL9284', 'KXE', 'JES', 'On Time')
+2024-06-13 17:42:30,130.consumer.INFO Received flight data: ('FL9393', 'QZN', 'EVK', 'On Time')
+2024-06-13 17:42:32,137.consumer.INFO Received flight data: ('FL7584', 'WKA', 'QWJ', 'On Time')
+2024-06-13 17:42:34,142.consumer.INFO Received flight data: ('FL9218', 'VHV', 'PRV', 'On Time')
+2024-06-13 17:42:36,148.consumer.INFO Received flight data: ('FL0320', 'JAE', 'USR', 'Delayed')
+2024-06-13 17:42:36,152.consumer.INFO  [alert] FL0320 => FROM: JAE - TO: USR => FLIGHT Delayed!!!
+2024-06-13 17:42:38,161.consumer.INFO Received flight data: ('FL9364', 'NRT', 'KOC', 'On Time')
+2024-06-13 17:42:40,177.consumer.INFO Received flight data: ('FL2998', 'UWW', 'NPC', 'On Time')
+2024-06-13 17:42:42,182.consumer.INFO Received flight data: ('FL2591', 'BLW', 'VSP', 'On Time')
+2024-06-13 17:42:44,186.consumer.INFO Received flight data: ('FL7001', 'LZQ', 'VNY', 'On Time')
+2024-06-13 17:42:46,190.consumer.INFO Received flight data: ('FL2697', 'UTP', 'DXK', 'On Time')
+2024-06-13 17:42:48,195.consumer.INFO Received flight data: ('FL6828', 'UVN', 'QDB', 'Delayed')
+2024-06-13 17:42:48,196.consumer.INFO  [alert] FL6828 => FROM: UVN - TO: QDB => FLIGHT Delayed!!!
+2024-06-13 17:42:50,210.consumer.INFO Received flight data: ('FL8644', 'THL', 'OAI', 'On Time')
+2024-06-13 17:42:52,221.consumer.INFO Received flight data: ('FL1332', 'QDQ', 'HFR', 'On Time')
+2024-06-13 17:42:54,229.consumer.INFO Received flight data: ('FL2434', 'LTX', 'WAN', 'On Time')
+2024-06-13 17:42:56,247.consumer.INFO Received flight data: ('FL1242', 'FUR', 'REN', 'Delayed')
+2024-06-13 17:42:56,248.consumer.INFO  [alert] FL1242 => FROM: FUR - TO: REN => FLIGHT Delayed!!!
+2024-06-13 17:42:58,251.consumer.INFO Received flight data: ('FL5029', 'IWT', 'LKY', 'Cancelled')
+2024-06-13 17:42:58,252.consumer.INFO  [alert] FL5029 => FROM: IWT - TO: LKY => FLIGHT Cancelled!!!
+2024-06-13 17:43:00,256.consumer.INFO Received flight data: ('FL2767', 'DOY', 'FYG', 'Cancelled')
+2024-06-13 17:43:00,257.consumer.INFO  [alert] FL2767 => FROM: DOY - TO: FYG => FLIGHT Cancelled!!!
+2024-06-13 17:43:02,260.consumer.INFO Received flight data: ('FL0836', 'KLI', 'PSW', 'On Time')
+2024-06-13 17:43:04,264.consumer.INFO Received flight data: ('FL7981', 'GNJ', 'KFM', 'On Time')
+2024-06-13 17:43:06,270.consumer.INFO Received flight data: ('FL3302', 'TPT', 'MDV', 'On Time')
+2024-06-13 17:43:08,274.consumer.INFO Received flight data: ('FL7521', 'RHT', 'YCO', 'On Time')
+2024-06-13 17:43:10,277.consumer.INFO Received flight data: ('FL7904', 'MUS', 'MVY', 'On Time')
+2024-06-13 17:43:12,280.consumer.INFO Received flight data: ('FL7617', 'RHS', 'LDQ', 'On Time')
+2024-06-13 17:43:14,294.consumer.INFO Received flight data: ('FL8073', 'LGS', 'PJZ', 'Delayed')
+2024-06-13 17:43:14,296.consumer.INFO  [alert] FL8073 => FROM: LGS - TO: PJZ => FLIGHT Delayed!!!
+2024-06-13 17:43:16,298.consumer.INFO Received flight data: ('FL5509', 'OPT', 'JFW', 'On Time')
+2024-06-13 17:43:18,305.consumer.INFO Received flight data: ('FL5097', 'IGV', 'TLG', 'Cancelled')
+2024-06-13 17:43:18,306.consumer.INFO  [alert] FL5097 => FROM: IGV - TO: TLG => FLIGHT Cancelled!!!
+2024-06-13 17:43:20,311.consumer.INFO Received flight data: ('FL2140', 'CMP', 'BGT', 'Delayed')
+2024-06-13 17:43:20,312.consumer.INFO  [alert] FL2140 => FROM: CMP - TO: BGT => FLIGHT Delayed!!!
+2024-06-13 17:43:22,318.consumer.INFO Received flight data: ('FL7688', 'KBO', 'QAF', 'Delayed')
+2024-06-13 17:43:22,319.consumer.INFO  [alert] FL7688 => FROM: KBO - TO: QAF => FLIGHT Delayed!!!
+2024-06-13 17:43:24,325.consumer.INFO Received flight data: ('FL9191', 'ULS', 'HKF', 'On Time')
+2024-06-13 17:43:26,355.consumer.INFO Received flight data: ('FL0896', 'GLO', 'IPG', 'On Time')
+2024-06-13 17:43:28,360.consumer.INFO Received flight data: ('FL1183', 'FKM', 'JWT', 'On Time')
+2024-06-13 17:43:30,445.consumer.INFO Received flight data: ('FL5295', 'ROX', 'BJW', 'Cancelled')
+2024-06-13 17:43:30,446.consumer.INFO  [alert] FL5295 => FROM: ROX - TO: BJW => FLIGHT Cancelled!!!
+2024-06-13 17:43:32,449.consumer.INFO Received flight data: ('FL4143', 'FGB', 'LEO', 'On Time')
+2024-06-13 17:43:34,455.consumer.INFO Received flight data: ('FL0809', 'POR', 'STM', 'On Time')
+2024-06-13 17:43:36,459.consumer.INFO Received flight data: ('FL2543', 'VDW', 'VYQ', 'Cancelled')
+2024-06-13 17:43:36,460.consumer.INFO  [alert] FL2543 => FROM: VDW - TO: VYQ => FLIGHT Cancelled!!!
+2024-06-13 17:43:38,463.consumer.INFO Received flight data: ('FL1404', 'UMV', 'KEN', 'On Time')
+2024-06-13 17:43:40,467.consumer.INFO Received flight data: ('FL1284', 'FHS', 'ZFZ', 'Cancelled')
+2024-06-13 17:43:40,467.consumer.INFO  [alert] FL1284 => FROM: FHS - TO: ZFZ => FLIGHT Cancelled!!!
+2024-06-13 17:43:42,474.consumer.INFO Received flight data: ('FL7199', 'ODG', 'RAT', 'Cancelled')
+2024-06-13 17:43:42,475.consumer.INFO  [alert] FL7199 => FROM: ODG - TO: RAT => FLIGHT Cancelled!!!
+2024-06-13 17:43:44,477.consumer.INFO Received flight data: ('FL2890', 'SBS', 'LUS', 'On Time')
+2024-06-13 17:43:46,480.consumer.INFO Received flight data: ('FL0187', 'EPR', 'DJJ', 'On Time')
+2024-06-13 17:43:48,483.consumer.INFO Received flight data: ('FL0765', 'PUS', 'HRO', 'Delayed')
+2024-06-13 17:43:48,483.consumer.INFO  [alert] FL0765 => FROM: PUS - TO: HRO => FLIGHT Delayed!!!
+2024-06-13 17:43:50,485.consumer.INFO Received flight data: ('FL9878', 'DAJ', 'TYQ', 'On Time')
+2024-06-13 17:43:52,490.consumer.INFO Received flight data: ('FL2650', 'ALA', 'ZBJ', 'Delayed')
+2024-06-13 17:43:52,492.consumer.INFO  [alert] FL2650 => FROM: ALA - TO: ZBJ => FLIGHT Delayed!!!
+2024-06-13 17:43:54,502.consumer.INFO Received flight data: ('FL3755', 'JZC', 'YCZ', 'Cancelled')
+2024-06-13 17:43:54,503.consumer.INFO  [alert] FL3755 => FROM: JZC - TO: YCZ => FLIGHT Cancelled!!!
+2024-06-13 17:43:56,507.consumer.INFO Received flight data: ('FL2806', 'KVO', 'ALZ', 'On Time')
+2024-06-13 17:43:58,511.consumer.INFO Received flight data: ('FL3526', 'VDL', 'YJS', 'On Time')
+2024-06-13 17:44:00,517.consumer.INFO Received flight data: ('FL3183', 'HLN', 'JWY', 'On Time')
+2024-06-13 17:44:02,522.consumer.INFO Received flight data: ('FL3636', 'ELC', 'RRN', 'Cancelled')
+2024-06-13 17:44:02,523.consumer.INFO  [alert] FL3636 => FROM: ELC - TO: RRN => FLIGHT Cancelled!!!
+2024-06-13 17:44:04,528.consumer.INFO Received flight data: ('FL0280', 'TEL', 'JDZ', 'Delayed')
+2024-06-13 17:44:04,529.consumer.INFO  [alert] FL0280 => FROM: TEL - TO: JDZ => FLIGHT Delayed!!!
+2024-06-13 17:44:06,531.consumer.INFO Received flight data: ('FL2982', 'UMI', 'DTJ', 'On Time')
+2024-06-13 17:44:08,536.consumer.INFO Received flight data: ('FL3615', 'CZO', 'MCC', 'Cancelled')
+2024-06-13 17:44:08,536.consumer.INFO  [alert] FL3615 => FROM: CZO - TO: MCC => FLIGHT Cancelled!!!
+2024-06-13 17:44:10,539.consumer.INFO Received flight data: ('FL0185', 'EPK', 'TXW', 'Cancelled')
+2024-06-13 17:44:10,539.consumer.INFO  [alert] FL0185 => FROM: EPK - TO: TXW => FLIGHT Cancelled!!!
+2024-06-13 17:44:12,542.consumer.INFO Received flight data: ('FL5609', 'HXG', 'YLW', 'On Time')
+2024-06-13 17:44:14,547.consumer.INFO Received flight data: ('FL4667', 'ADU', 'KOY', 'Delayed')
+2024-06-13 17:44:14,548.consumer.INFO  [alert] FL4667 => FROM: ADU - TO: KOY => FLIGHT Delayed!!!
+2024-06-13 17:44:16,554.consumer.INFO Received flight data: ('FL1729', 'RYV', 'PMX', 'On Time')
+2024-06-13 17:44:18,564.consumer.INFO Received flight data: ('FL3461', 'KFA', 'TIO', 'On Time')
+2024-06-13 17:44:20,599.consumer.INFO Received flight data: ('FL5048', 'NCM', 'JVL', 'On Time')
+2024-06-13 17:44:22,637.consumer.INFO Received flight data: ('FL3308', 'QYW', 'BZQ', 'On Time')
+2024-06-13 17:44:24,641.consumer.INFO Received flight data: ('FL1743', 'FZQ', 'RFD', 'On Time')
+2024-06-13 17:44:26,661.consumer.INFO Received flight data: ('FL0045', 'GVH', 'HZP', 'On Time')
+2024-06-13 17:44:28,667.consumer.INFO Received flight data: ('FL0770', 'APW', 'QLG', 'On Time')
+2024-06-13 17:44:30,673.consumer.INFO Received flight data: ('FL2656', 'RUE', 'EAZ', 'On Time')
+2024-06-13 17:44:32,677.consumer.INFO Received flight data: ('FL5851', 'MZV', 'TRZ', 'On Time')
+2024-06-13 17:44:34,680.consumer.INFO Received flight data: ('FL2877', 'WAU', 'KHJ', 'Delayed')
+2024-06-13 17:44:34,684.consumer.INFO  [alert] FL2877 => FROM: WAU - TO: KHJ => FLIGHT Delayed!!!
+2024-06-13 17:44:36,689.consumer.INFO Received flight data: ('FL8485', 'IUM', 'PJD', 'On Time')
+2024-06-13 17:44:38,699.consumer.INFO Received flight data: ('FL6894', 'SWW', 'YXF', 'On Time')
+2024-06-13 17:44:40,702.consumer.INFO Received flight data: ('FL1135', 'DKY', 'PTA', 'On Time')
+2024-06-13 17:44:42,716.consumer.INFO Received flight data: ('FL6004', 'RPD', 'EFJ', 'On Time')
+2024-06-13 17:44:44,731.consumer.INFO Received flight data: ('FL9896', 'KBY', 'RVS', 'On Time')
+2024-06-13 17:44:46,735.consumer.INFO Received flight data: ('FL2375', 'VLU', 'IWF', 'Delayed')
+2024-06-13 17:44:46,736.consumer.INFO  [alert] FL2375 => FROM: VLU - TO: IWF => FLIGHT Delayed!!!
+2024-06-13 17:44:48,740.consumer.INFO Received flight data: ('FL0339', 'QKZ', 'RDS', 'Delayed')
+2024-06-13 17:44:48,741.consumer.INFO  [alert] FL0339 => FROM: QKZ - TO: RDS => FLIGHT Delayed!!!
+2024-06-13 17:44:50,747.consumer.INFO Received flight data: ('FL4713', 'HQR', 'ECH', 'On Time')
+2024-06-13 17:44:52,754.consumer.INFO Received flight data: ('FL1039', 'EKL', 'POH', 'On Time')
+2024-06-13 17:44:54,758.consumer.INFO Received flight data: ('FL8161', 'PSM', 'FVF', 'On Time')
+2024-06-13 17:44:56,763.consumer.INFO Received flight data: ('FL8191', 'INB', 'MVG', 'Cancelled')
+2024-06-13 17:44:56,764.consumer.INFO  [alert] FL8191 => FROM: INB - TO: MVG => FLIGHT Cancelled!!!
+2024-06-13 17:44:58,768.consumer.INFO Received flight data: ('FL5663', 'NQG', 'MPV', 'On Time')
+2024-06-13 17:45:00,920.consumer.INFO Received flight data: ('FL9975', 'MWJ', 'VNY', 'On Time')
+2024-06-13 17:45:02,923.consumer.INFO Received flight data: ('FL2818', 'OJJ', 'RNZ', 'On Time')
+2024-06-13 17:45:04,926.consumer.INFO Received flight data: ('FL2175', 'JAG', 'GGW', 'Cancelled')
+2024-06-13 17:45:04,927.consumer.INFO  [alert] FL2175 => FROM: JAG - TO: GGW => FLIGHT Cancelled!!!
+2024-06-13 17:45:06,930.consumer.INFO Received flight data: ('FL1357', 'PAV', 'PTV', 'Delayed')
+2024-06-13 17:45:06,930.consumer.INFO  [alert] FL1357 => FROM: PAV - TO: PTV => FLIGHT Delayed!!!
+2024-06-13 17:45:08,932.consumer.INFO Received flight data: ('FL7786', 'VCJ', 'BCV', 'Delayed')
+2024-06-13 17:45:08,933.consumer.INFO  [alert] FL7786 => FROM: VCJ - TO: BCV => FLIGHT Delayed!!!
+2024-06-13 17:45:10,934.consumer.INFO Received flight data: ('FL3915', 'EQH', 'NTN', 'On Time')
+2024-06-13 17:45:12,938.consumer.INFO Received flight data: ('FL2991', 'PVC', 'JZZ', 'On Time')
+2024-06-13 17:45:14,939.consumer.INFO Received flight data: ('FL2961', 'AQW', 'HZX', 'On Time')
+2024-06-13 17:45:16,941.consumer.INFO Received flight data: ('FL3922', 'YJX', 'XGH', 'Delayed')
+2024-06-13 17:45:16,943.consumer.INFO  [alert] FL3922 => FROM: YJX - TO: XGH => FLIGHT Delayed!!!
+2024-06-13 17:45:18,943.consumer.INFO Received flight data: ('FL7523', 'GGU', 'SZL', 'On Time')
+2024-06-13 17:45:20,952.consumer.INFO Received flight data: ('FL0138', 'ATV', 'ROU', 'On Time')
+2024-06-13 17:45:22,954.consumer.INFO Received flight data: ('FL3329', 'KAR', 'ZZM', 'On Time')
+2024-06-13 17:45:24,956.consumer.INFO Received flight data: ('FL8596', 'TLJ', 'AIW', 'On Time')
+2024-06-13 17:45:26,958.consumer.INFO Received flight data: ('FL9159', 'ODZ', 'IBF', 'On Time')
+2024-06-13 17:45:28,962.consumer.INFO Received flight data: ('FL9257', 'OCT', 'STI', 'On Time')
+2024-06-13 17:45:30,963.consumer.INFO Received flight data: ('FL1084', 'JNT', 'FUG', 'On Time')
+2024-06-13 17:45:32,966.consumer.INFO Received flight data: ('FL0160', 'CVJ', 'PVZ', 'On Time')
+2024-06-13 17:45:34,969.consumer.INFO Received flight data: ('FL3447', 'QFK', 'CJM', 'On Time')
+2024-06-13 17:45:36,973.consumer.INFO Received flight data: ('FL0641', 'DKI', 'BMB', 'On Time')
+2024-06-13 17:45:38,977.consumer.INFO Received flight data: ('FL5691', 'FLC', 'QXY', 'On Time')
+2024-06-13 17:45:40,982.consumer.INFO Received flight data: ('FL8268', 'XJS', 'DEH', 'On Time')
+2024-06-13 17:45:42,986.consumer.INFO Received flight data: ('FL8573', 'VQP', 'VHB', 'On Time')
+2024-06-13 17:45:44,990.consumer.INFO Received flight data: ('FL0156', 'XDJ', 'ZYH', 'Cancelled')
+2024-06-13 17:45:44,990.consumer.INFO  [alert] FL0156 => FROM: XDJ - TO: ZYH => FLIGHT Cancelled!!!
+2024-06-13 17:45:46,997.consumer.INFO Received flight data: ('FL5637', 'AFJ', 'ZRI', 'On Time')
+2024-06-13 17:45:49,003.consumer.INFO Received flight data: ('FL6100', 'MQI', 'GMD', 'On Time')
+2024-06-13 17:45:51,007.consumer.INFO Received flight data: ('FL2155', 'QNH', 'AZS', 'On Time')
+2024-06-13 17:45:53,011.consumer.INFO Received flight data: ('FL7635', 'TQP', 'UAH', 'Delayed')
+2024-06-13 17:45:53,012.consumer.INFO  [alert] FL7635 => FROM: TQP - TO: UAH => FLIGHT Delayed!!!
+2024-06-13 17:45:55,015.consumer.INFO Received flight data: ('FL6280', 'YLW', 'QMD', 'On Time')
+2024-06-13 17:45:57,030.consumer.INFO Received flight data: ('FL8178', 'LEY', 'RQE', 'On Time')
+2024-06-13 17:45:59,034.consumer.INFO Received flight data: ('FL4285', 'CKN', 'WDB', 'On Time')
+2024-06-13 17:46:01,040.consumer.INFO Received flight data: ('FL8929', 'ZDE', 'NRN', 'On Time')
+2024-06-13 17:46:03,042.consumer.INFO Received flight data: ('FL6568', 'TBF', 'ACI', 'On Time')
+2024-06-13 17:46:05,046.consumer.INFO Received flight data: ('FL5224', 'XJS', 'GIG', 'Cancelled')
+2024-06-13 17:46:05,047.consumer.INFO  [alert] FL5224 => FROM: XJS - TO: GIG => FLIGHT Cancelled!!!
+2024-06-13 17:46:07,051.consumer.INFO Received flight data: ('FL1315', 'SON', 'AOK', 'On Time')
+2024-06-13 17:46:09,054.consumer.INFO Received flight data: ('FL3884', 'DXW', 'HFF', 'On Time')
+2024-06-13 17:46:11,059.consumer.INFO Received flight data: ('FL7191', 'JVU', 'PXD', 'Cancelled')
+2024-06-13 17:46:11,060.consumer.INFO  [alert] FL7191 => FROM: JVU - TO: PXD => FLIGHT Cancelled!!!
+2024-06-13 17:46:13,067.consumer.INFO Received flight data: ('FL3893', 'OKJ', 'UYC', 'On Time')
+2024-06-13 17:46:15,071.consumer.INFO Received flight data: ('FL1249', 'IWF', 'PWF', 'On Time')
+2024-06-13 17:46:17,075.consumer.INFO Received flight data: ('FL4650', 'PDV', 'MPQ', 'On Time')
+2024-06-13 17:46:19,080.consumer.INFO Received flight data: ('FL2123', 'RMP', 'JAO', 'On Time')
+2024-06-13 17:46:21,085.consumer.INFO Received flight data: ('FL2052', 'XKU', 'ZBW', 'On Time')
+2024-06-13 17:46:23,091.consumer.INFO Received flight data: ('FL2739', 'YMM', 'BXR', 'On Time')
+2024-06-13 17:46:25,104.consumer.INFO Received flight data: ('FL2117', 'MRY', 'EPF', 'On Time')
+2024-06-13 17:46:27,107.consumer.INFO Received flight data: ('FL8959', 'SHL', 'QVE', 'On Time')
+2024-06-13 17:46:29,110.consumer.INFO Received flight data: ('FL4557', 'VVM', 'ZOX', 'Cancelled')
+2024-06-13 17:46:29,112.consumer.INFO  [alert] FL4557 => FROM: VVM - TO: ZOX => FLIGHT Cancelled!!!
+2024-06-13 17:46:31,121.consumer.INFO Received flight data: ('FL6816', 'WVP', 'JJA', 'On Time')
+2024-06-13 17:46:33,124.consumer.INFO Received flight data: ('FL5193', 'XNR', 'PPQ', 'Cancelled')
+2024-06-13 17:46:33,125.consumer.INFO  [alert] FL5193 => FROM: XNR - TO: PPQ => FLIGHT Cancelled!!!
+2024-06-13 17:46:35,128.consumer.INFO Received flight data: ('FL2371', 'CJO', 'YMU', 'On Time')
+2024-06-13 17:46:37,131.consumer.INFO Received flight data: ('FL6307', 'ZAI', 'XWH', 'Cancelled')
+2024-06-13 17:46:37,132.consumer.INFO  [alert] FL6307 => FROM: ZAI - TO: XWH => FLIGHT Cancelled!!!
+2024-06-13 17:46:39,136.consumer.INFO Received flight data: ('FL8839', 'YUG', 'BUB', 'On Time')
+2024-06-13 17:46:41,139.consumer.INFO Received flight data: ('FL6018', 'PON', 'SIZ', 'On Time')
+2024-06-13 17:46:43,149.consumer.INFO Received flight data: ('FL0697', 'PGO', 'ABN', 'On Time')
+2024-06-13 17:46:45,157.consumer.INFO Received flight data: ('FL7888', 'YMZ', 'AJP', 'On Time')
+2024-06-13 17:46:47,161.consumer.INFO Received flight data: ('FL4216', 'HIJ', 'QVC', 'On Time')
